@@ -1,7 +1,6 @@
 # Hi, I'm Anas Shafiq Arifin 👋
 
-Computational Data Science student at **Penn State** (B.S., May 2027) and **JPA Scholar**.
-Understanding Data and worked around it is so Coll nd it guided into decisions: analytics, machine learning, and tools that non-technical people can actually use.
+I like digging into data to find out what's actually going on, and building things other people can use. Most of my work so far is analytics and machine learning in Python and R.
 
 ## What I've worked on
 
