@@ -26,4 +26,4 @@ See the pinned repositories below.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/AnasShafiqArifin)
+[[LinkedIn](https://linkedin.com/in/AnasShafiqArifin)](https://www.linkedin.com/in/anasshafiqarifin/)
